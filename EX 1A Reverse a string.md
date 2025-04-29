@@ -1,4 +1,4 @@
-# EX 1A Factorial Of A Number Recursively
+# EX 1A Factorial Using Recursion
 
 ## DATE:
 
