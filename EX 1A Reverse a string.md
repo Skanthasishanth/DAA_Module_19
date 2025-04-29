@@ -1,4 +1,4 @@
-# EX 1A Write a Python Program to print factorial of a number recursively.
+# EX 1A Factorial Of A Number Recursively
 
 ## DATE:
 
@@ -30,7 +30,6 @@ To write a program to create a factorial of a number recursively.
 ## Program:
 
 ```
-Program to implement Reverse a String
 Developed by: KANTHA SISHANTH S
 Register Number: 212222100020
 ```
